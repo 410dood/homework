@@ -36,3 +36,15 @@ git checkout <branch>
 To collaborate on different things or a side project or application that you want to track and share, but thats not ready for master branch
 
 //COMMIT3
+
+1. Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+
+You would use git merge to add a branch to the master branch or visa versa...like adding a new function to the master
+
+It would be better to submit a pull request when you dont have permission to merge or you want someone to review your branch or test your code before merging.
+
+2. What command do you use to send all of the work that you've done locally to your remote repository?
+
+git push
+
+//COMMIT4
