@@ -25,3 +25,14 @@ tells git what 'commit' you want to go back to
 something stopped working or you messed your code all up and want to get it back to last happy state
 
 //COMMIT2
+
+1. What command do you use to create a branch?
+git branch
+
+2. What command do you use to use a different branch?
+git checkout <branch>
+
+3. Why would you want to use a branch other than the default master?
+To collaborate on different things or a side project or application that you want to track and share, but thats not ready for master branch
+
+//COMMIT3
